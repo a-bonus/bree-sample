@@ -3,18 +3,36 @@ This is a sample app update to show a potential UX/UX update that creates a new 
 
 ## App Screenshots
 
-Before:
+### Before:
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="400px">
+        <img src="./assets/images/IMG_95D5CF6C059D-1.jpeg" width="300px" alt="Home Screen"/>
+        <br />
+        <em>Home Screen</em>
+      </td>
+    </tr>
+  </table>
+</div>
 
-| Home Screen | 
-|------------|----------------|
-| ![Home Screen](./assets/images/IMG_95D5CF6C059D-1.jpeg) | 
-
-After:
-
-| Home Screen | Learning Paths |
-|------------|----------------|
-| ![Home Screen](./assets/images/Screenshot%202025-02-23%20at%209.16.19 AM.png) | ![Learning Paths](./assets/images/Screenshot%202025-02-23%20at%209.16.27 AM.png) |
-
+### After:
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="400px">
+        <img src="./assets/images/Screenshot%202025-02-23%20at%209.16.19 AM.png" width="300px" alt="Home Screen"/>
+        <br />
+        <em>Home Screen</em>
+      </td>
+      <td align="center" width="400px">
+        <img src="./assets/images/Screenshot%202025-02-23%20at%209.16.27 AM.png" width="300px" alt="Learning Paths"/>
+        <br />
+        <em>Learning Paths</em>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Testing the App on Your Device
 
