@@ -21,12 +21,12 @@ This is a sample app update to show a potential UX/UX update that creates a new 
   <table>
     <tr>
       <td align="center" width="400px">
-        <img src="./assets/images/Screenshot%202025-02-23%20at%209.16.19 AM.png" width="300px" alt="Home Screen"/>
+        <img src="./assets/images/Screenshot 2025-02-23 at 9.16.19 AM.png" width="300px" alt="Home Screen"/>
         <br />
         <em>Home Screen</em>
       </td>
       <td align="center" width="400px">
-        <img src="./assets/images/Screenshot%202025-02-23%20at%209.16.27 AM.png" width="300px" alt="Learning Paths"/>
+        <img src="./assets/images/Screenshot 2025-02-23 at 9.16.27 AM.png" width="300px" alt="Learning Paths"/>
         <br />
         <em>Learning Paths</em>
       </td>
