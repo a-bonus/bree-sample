@@ -29,9 +29,7 @@ This is a sample app update to show a potential UI/UX update that creates a new 
         <br />
         <em>Home Screen</em>
       </td>
-     
-    </tr>
-  </table>
+       </table>
 </div>
 
 ## Testing the App on Your Device
