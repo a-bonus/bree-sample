@@ -1,5 +1,5 @@
 # Bree Sample Updates 
-This is a sample app to show a potential UX/UX update that creates a new bottom bar nav and a new learn screen, that becomes the focus of the app. Since Bree's desire is to help people improve their financial situation, then it would be really beneficial to help improve their financial literacy so they would better learn how to manage their money, and be less reliant on cash advances, but that BRee is still there in case of an emergency. If financial educational content becomes a pillar and is created in a really engaging and easy to way learn, then it may desmistify certain finance concepts that keep people scared and trapped. 
+This is a sample app update to show a potential UX/UX update that creates a new bottom bar nav and a new learn screen, that becomes the focus of the app. Since Bree's desire is to help people improve their financial situation, then it would be really beneficial to help improve their financial literacy so they would better learn how to manage their money, and be less reliant on cash advances, and that Bree is still there in case of an emergency. If financial educational content becomes a pillar and is created in a really engaging and easy to way learn, then it may desmistify certain finance concepts that keep people scared and trapped. 
 
 ## App Screenshots
 
