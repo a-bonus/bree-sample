@@ -3,6 +3,14 @@ This is a sample app update to show a potential UX/UX update that creates a new 
 
 ## App Screenshots
 
+Before:
+
+| Home Screen | 
+|------------|----------------|
+| ![Home Screen](./assets/images/IMG_95D5CF6C059D-1.jpeg) | 
+
+After:
+
 | Home Screen | Learning Paths |
 |------------|----------------|
 | ![Home Screen](./assets/images/Screenshot%202025-02-23%20at%209.16.19 AM.png) | ![Learning Paths](./assets/images/Screenshot%202025-02-23%20at%209.16.27 AM.png) |
