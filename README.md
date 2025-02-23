@@ -5,7 +5,7 @@ This is a sample app to show a potential UX/UX update that creates a new bottom 
 
 | Home Screen | Learning Paths |
 |------------|----------------|
-| ![Home Screen](./assets/images/Screenshot%202025-02-23%20at%209.16.19%20AM.png) | ![Learning Paths](./assets/images/Screenshot%202025-02-23%20at%209.16.27%20AM.png) |
+| ![Home Screen](https://raw.githubusercontent.com/a-bonus/bree-app/main/assets/images/Screenshot%202025-02-23%20at%209.16.19%20AM.png) | ![Learning Paths](https://raw.githubusercontent.com/a-bonus/bree-app/main/assets/images/Screenshot%202025-02-23%20at%209.16.27%20AM.png) |
 
 
 ## Testing the App on Your Device
