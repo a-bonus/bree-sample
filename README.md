@@ -19,7 +19,6 @@ This is a sample app update to show a potential UI/UX update that creates a new 
 ### After:
 <div align="center">
   <table>
-    <tr>
        <td align="center" width="400px">
         <img src="./assets/images/Screenshot 2025-02-23 at 9.16.27 AM.png" width="300px" alt="Learning Paths"/>
         <br />
